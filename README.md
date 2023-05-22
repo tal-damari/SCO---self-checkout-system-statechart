@@ -1,4 +1,4 @@
-# SCO - Self checkout system - Software Engineer course project
+# SCO - Self checkout system - Software Engineering course project
 SCO - self checkout system based on AI
 
 **NOTE - IF YOU WANT TO LAUNCH THE PROJECT FILE YOU NEED TO OPEN IT THROUGH ITEMIS (YAKINDU) IN YOUR COMPUTER AND RUN IT**
