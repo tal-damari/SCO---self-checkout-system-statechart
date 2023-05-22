@@ -8,7 +8,7 @@ What we wanted to implement is a new way to use the self checkout machine, using
 We made a State Chart, that includes the AI itself, regular machine (in case something goes wrong with the AI system while it runs)
 and also implemented the coupon state alongside with the payment method, receipt and deleting items.
 
-Basically, when a customer wants to check out with his groceries, all he have to do is to place his items in a small box, this box have scanners and cameras, that is supposed to take a picture of the items, and define throught its data mining and AI (machine learning algorithm - usually based on K means) the products that the customer have chosen, to put it in his grocereis bag. Note that if one of the sensors or camera doesnt work, the machine automatically goes to the regular scanning machine where the customer scanning and wheighting his own products before checkout.
+Basically, when a customer wants to check out with his grocereis, all he have to do is to place his items in a small box, this box have scanners and cameras, that is supposed to take a picture of the items, and define throught its data mining and AI (machine learning algorithm - usually based on K means) the products that the customer have chosen, to put it in his grocereis bag. Note that if one of the sensors or camera doesnt work, the machine automatically goes to the regular scanning machine where the customer scanning and wheighting his own products before checkout.
 
 We also implemented errors, in case something goes wrong with the coupon, payment method, machine goes off in case of no electricy etc.
 
